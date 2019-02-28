@@ -1,0 +1,1 @@
+$(".mcBastard").hide();
