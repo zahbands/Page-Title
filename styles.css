@@ -1,0 +1,33 @@
+body {
+     background-image:url("https://perezhilton.com/wp-content/uploads/2013/09/greys-anatomy(1).gif");
+}
+
+.mcBastard{
+    background:#003366;
+    border:#add8e6 double 10px;
+}
+
+.mcSteamy{
+  background :#add8e6;
+  color:#003366;
+  border:white double 6px;
+  
+
+}
+
+.mcDreamy{ 
+    
+    background : white;
+    color:#003366;
+    border:#add8e6  double 6px    ; 
+
+}
+
+
+input, textarea {
+  background-color :lightgray;
+}
+
+.mcYuck{
+font-family: 'Shadows Into Light', cursive;
+}
